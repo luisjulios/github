@@ -1,0 +1,21 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+color: inherit;
+list-style: none;
+text-decoration: none;
+}
+body {
+  background-color: hotpink;
+}
+header {
+  background-color: pink;
+  height: 10em;
+  h1 {
+    text-align: center;
+    padding: 2em;
+    font-size: 2em;
+    color: white;
+  }
+}
